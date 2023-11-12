@@ -19,7 +19,7 @@ url:              https://aiblog.codescarlet.kr
 
 author:
   name:           'CodeScarlet'
-  url:            https://github.com/pinky317ml/pinky317ml.github.io
+  url:            https://github.com/pinky317ml
 
 paginate:         5
 # paginate_path:    '/page:num'
