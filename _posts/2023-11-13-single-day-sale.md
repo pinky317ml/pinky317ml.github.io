@@ -2,7 +2,7 @@
 layout: post
 title: "싱글즈데이 세일 11.11 - 전품목 22% 할인, 베스트셀러 추천"
 tags: [싱글즈데이, 세일, 할인, 베스트셀러]
-image: https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/banners/Singles-Day_2023_110923_003ko-kr.jpg
+excerpt_separator: <!--more-->
 ---
 
 # 베스트셀러 추천
